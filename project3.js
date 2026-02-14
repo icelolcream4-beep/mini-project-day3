@@ -9,3 +9,7 @@ function draw() {
   noStroke()
   circle(mouseX,mouseY,100)
 }
+
+function mousePressed(){
+  background(200)
+}
